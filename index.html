@@ -78,7 +78,20 @@
         color: #ffffff;
         padding: 2px 6px;
         border-radius: 4px;}}
-        h4 {margin-bottom: x;}
+        @media (max-width: 768px) {
+        header h1 { font-size: 24px; }
+        main { margin: 10px; padding: 15px; }
+        p { text-indent: 15px; font-size: 14px; }
+        h2, h3 { font-size: 18px; }
+       .gasanlogo1, .gasanlogo2 { flex-direction: column; margin: 15px 0; }
+        img { max-width: 90%; }
+    }
+
+    @media (max-width: 480px) {
+      header h1 { font-size: 20px; }
+      main { padding: 10px; }
+      p { font-size: 13px; }
+      .motto { font-size: 1em; }
         
     </style>
 </head>
@@ -158,6 +171,7 @@
 </section>   
 </body>
 </html>
+
 
 
 
