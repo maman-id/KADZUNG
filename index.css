@@ -1,33 +1,28 @@
 body {
         margin: 0;
         padding: 0;
-        
+        background-image: url(e788837b5beef2101acb9b60db9ded79.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
         color: #ffffff;
         font-family: open-sans;}
-.bg     {background: url(exp/e788837b5beef2101acb9b60db9ded79.jpg); no-repeat center center;
-        background-size: cover;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100vh;
-        height: 100dvh;
-        position: fixed;
-        z-index: -1;}
 .sejarah 
         {text-align: justify;
         text-indent: 30px;
-        margin-right: 38px;}
+        margin-right: 40px;}
 .dftr   
         {margin-left: 20px;}
 .p1     
         {text-align: justify;
         text-indent: 30px;
         margin-left: 40px;
-        margin-right: 38px;}
+        margin-right: 40px;}
 .p2 
         {text-align: justify;
         text-indent: 30px;
-        margin-right: 38px;}
+        margin-right: 40px;}
 .ulatas 
         {padding: 0;
         list-style-type: disc;}
@@ -63,8 +58,8 @@ h4
 .motto {text-align: center;
         font-style: italic;
         margin-top: 30px;
-
         font-size: 1.2em;}
+
 
 
 
